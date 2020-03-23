@@ -1,0 +1,18 @@
+41 44 57 53 55 48 4a 4b
+25 27 26 28 65 61 62 63
+43 42 46 56 51 47 45 5a
+49 4c 4d 4e 4f 50 52 54
+0
+1
+
+===============================
+Default settings
+Do not change these settings!
+
+Line1-4:Player-Hex-KeyCodes
+For a list of mappable keys please see:  http://www.kbdedit.com/manual/low_level_vk_list.html
+
+Line5:Number of Players  (0=CPU 1=2-Player 2=3-Player 3=4-Player)
+Line6:Difficulty-Level   (0 - 2)
+
+===============================
